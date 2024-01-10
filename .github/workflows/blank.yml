@@ -19,6 +19,6 @@ jobs:
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
-          cd /opt/sebsec/sebsec.io/scripts/
+          cd /opt/sebsec/scripts/
           ./blog_update.sh
 
