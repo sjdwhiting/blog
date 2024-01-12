@@ -1,5 +1,5 @@
 ---
-title: "Some front matter"
+title: "Some front matter 1"
 description: "This is a description"
 keywords: "test markdown blog stuff"
 author: "Sebastian"
